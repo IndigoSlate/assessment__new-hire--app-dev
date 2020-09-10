@@ -1,3 +1,5 @@
+# Exported to Azure DevOps on 9/10/2020
+
 # Hiring Assessment
 
 Thank you for taking the time to complete Indigo Slate Engineering's full stack assessment.
